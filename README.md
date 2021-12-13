@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>حجات ملهاش لزمه</title>
+</head>
+<body style="background-color:powderblue;">
+<h1> Header W 5alas </h1> <h3 style="text-align:right;" >  الموقع ده معمول من شخص جامد وروش وبدون اسامي اسمه <a href="https://www.facebook.com/nour.aboarab77/"> نور </a> </h3>
+<h2> (Header bela hadaf) </h2>
+<hr>
+<p style="background-color:Red ; text-align:center;"> <font size = "8"> الويب سايت ده مليان روشنه </font> </p>
+<hr>
+<p style="text-align:right;font-size:50px;">مبدأيا كدا
+<img src="https://i.pinimg.com/originals/fc/2c/f7/fc2cf71442eae0e83817068e1d7294f4.jpg" alt="سعد الصغير " width="300" height="150" style="float:right" >
+</p>
+<p style="text-align:right;font-size:50px;">:الموقع الاول</p>
+<p style="text-align:right;font-size:35px;"> <a href="http://www.staggeringbeauty.com/">  الموقع ده بترقص بصوبع او حاجه زي كده (متعتمدش علي شرحي :) </a> </p>
+<p style="text-align:right;font-size:35px;"> جامد صح :) </p>
+<hr>
+<p style="text-align:right;font-size:50px;">:الموقع التاني</p>
+<p style="text-align:right;font-size:35px;"> <a href="https://isitchristmas.com/"> عايز تعرف انت في الكريسمس ولا لا؟......لا؟ </a> </p>
+<img src="https://i.pinimg.com/originals/f9/d5/72/f9d5729fc90fbc0149f2ef34c5a02b4e.jpg" alt="ماشي " width="300" height="250" style="float:right" >
+<pre style="text-align:right;">
 
-You can use the [editor on GitHub](https://github.com/DevNour/Dev_N/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevNour/Dev_N/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
